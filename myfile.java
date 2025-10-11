@@ -4,6 +4,6 @@ public class myfile {
     public static void main(String[] args)
     {
         // Prints "Hello, World" to the terminal window.
-        System.out.println("NAAD KARTI KAY");
+        System.out.println("hotel bhagyashree");
     }
 }
